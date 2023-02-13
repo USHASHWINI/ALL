@@ -5,7 +5,7 @@ storage : 128gb
 
 version : 13.1
 camera : 128 mp
-
+version:70
 version 100.0
 version 14.0
 version 15.0
