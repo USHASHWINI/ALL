@@ -2,7 +2,7 @@ name : Iphone
 version : 13.0
 ram : 8gb
 storage : 128gb
-
+version :0
 version : 13.1
 camera : 128 mp
 
