@@ -1,0 +1,4 @@
+name : Iphone
+version : 13.0
+ram : 8gb
+storage : 128gb
