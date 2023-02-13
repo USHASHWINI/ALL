@@ -8,5 +8,8 @@ camera : 128 mp
 version:70
 version 100.0
 version 14.0
+version :50
+
 version :8
+
 version 15.0
